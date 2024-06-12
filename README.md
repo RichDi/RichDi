@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/ricardo-delgado-377769112/)
+[![LinkedIn](https://www.linkedin.com/in/ricardo-delgado-377769112/)]
 [![Personal Website](https://img.shields.io/badge/-Website-333333?style=flat&logo=google-chrome)](https://yourwebsite.com/)
 
-⭐️ From [Your GitHub Username](https://github.com/richdi)
+⭐️ Humbly from RichDi(https://github.com/richdi)
