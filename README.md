@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 - 💬 Ask me about Web Dev.
 - 📫 How to reach me: drdr_2@hotmail.com.
 
+- 👁️‍🗨️ Chaos lies within the eye of the observer
+
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
