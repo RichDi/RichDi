@@ -1,4 +1,4 @@
-# Hi there, I'm Ricardo Delgado! 👋
+# Hi there, I'm Ricardo Delgado! 🤟🏼
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who loves to build and share projects. Here's a bit more about me:
 
